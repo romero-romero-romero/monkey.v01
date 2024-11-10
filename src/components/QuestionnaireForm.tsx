@@ -1,9 +1,9 @@
 import React from 'react';
-import { AlertCircle, Brain, Heart, Home, Users } from 'lucide-react';
+import { Brain, Heart, Home, Users } from 'lucide-react';
 
 const categories = [
   {
-    id: 'socioeconomic',
+    id: 'socioeconomica',
     icon: Home,
     questions: [
       { id: 'income', text: '¿Cuál es su nivel de ingresos mensual?', options: ['Menos de $10,000', '$10,000 - $20,000', '$20,000 - $30,000', 'Más de $30,000'] },
@@ -12,7 +12,7 @@ const categories = [
     ]
   },
   {
-    id: 'behavioral',
+    id: 'conductual',
     icon: Brain,
     questions: [
       { id: 'sleep', text: '¿Cómo describiría sus patrones de sueño?', options: ['Regular y suficiente', 'Irregular', 'Insomnio frecuente', 'Duerme demasiado'] },
@@ -21,7 +21,7 @@ const categories = [
     ]
   },
   {
-    id: 'psychological',
+    id: 'psicologica',
     icon: Heart,
     questions: [
       { id: 'mood', text: '¿Cómo describiría su estado de ánimo general?', options: ['Positivo', 'Neutral', 'Variable', 'Negativo'] },
@@ -102,7 +102,7 @@ export default function QuestionnaireForm({ onSubmit }: QuestionnaireFormProps) 
         </div>
 
         <div className="space-y-6">
-          {category.questions.map((question, idx) => (
+          {category.questions.map((question) => (
             <div key={question.id} className="space-y-3">
               <p className="font-medium">{question.text}</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-3">

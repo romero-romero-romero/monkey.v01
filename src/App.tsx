@@ -1,7 +1,7 @@
 import React from 'react';
 import QuestionnaireForm from './components/QuestionnaireForm';
 import Results from './components/Results';
-import { Brain } from 'lucide-react';
+import { LucideHeartHandshake } from 'lucide-react';
 import { analyzeSVMRisk, getRecommendations } from './utils/svm';
 
 function App() {
@@ -27,9 +27,9 @@ function App() {
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 py-4 sm:px-6 lg:px-8">
           <div className="flex items-center gap-3">
-            <Brain className="w-8 h-8 text-blue-600" />
+            <LucideHeartHandshake className="w-8 h-8 text-blue-600" />
             <h1 className="text-2xl font-bold text-gray-900">
-              Análisis de Riesgo de Depresión
+              Clasificación Inteligente de Datos | Análisis de Riesgo de Depresión
             </h1>
           </div>
         </div>

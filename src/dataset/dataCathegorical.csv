@@ -1,0 +1,301 @@
+id,fecha_encuesta,edad,genero,income,education,employment,sleep,appetite,energy,mood,interest,anxiety,relationships,support,isolation
+1,2024-07-30,46,M,"$10,000 - $20,000",Universidad,Estudiante,Duerme demasiado,Normal,Alto,Positivo,No,Ocasionalmente,Satisfactorias,Apoyo moderado,Raramente
+2,2024-09-08,28,M,"$10,000 - $20,000",Universidad,Estudiante,Regular y suficiente,Disminuido,Normal,Variable,Ocasionalmente,Raramente,Muy satisfactorias,Apoyo moderado,Raramente
+3,2024-05-14,29,M,"Menos de $10,000",Secundaria,Empleado tiempo completo,Insomnio frecuente,Disminuido,Alto,Negativo,Ocasionalmente,Ocasionalmente,Muy satisfactorias,Poco apoyo,Frecuentemente
+4,2024-07-05,25,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Duerme demasiado,Normal,Alto,Variable,Frecuentemente,Frecuentemente,Muy satisfactorias,Mucho apoyo,Ocasionalmente
+5,2024-09-18,61,O,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Insomnio frecuente,Normal,Normal,Variable,Frecuentemente,Frecuentemente,Muy satisfactorias,Poco apoyo,Ocasionalmente
+6,2024-09-13,62,F,"$10,000 - $20,000",Secundaria,Empleado medio tiempo,Irregular,Disminuido,Normal,Variable,No,Frecuentemente,Regulares,Apoyo moderado,Frecuentemente
+7,2024-09-10,58,F,"Menos de $10,000",Secundaria,Estudiante,Duerme demasiado,Normal,Normal,Positivo,No,Frecuentemente,Satisfactorias,Apoyo moderado,Frecuentemente
+8,2024-08-19,34,M,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Duerme demasiado,Disminuido,Normal,Variable,Ocasionalmente,Frecuentemente,Satisfactorias,Apoyo moderado,Ocasionalmente
+9,2024-09-25,51,M,"$10,000 - $20,000",Universidad,Desempleado,Regular y suficiente,Disminuido,Normal,Variable,Ocasionalmente,Ocasionalmente,Regulares,Poco apoyo,Siempre
+10,2024-06-30,23,O,"$20,000 - $30,000",Secundaria,Empleado medio tiempo,Insomnio frecuente,Disminuido,Bajo,Neutral,Frecuentemente,Ocasionalmente,Muy satisfactorias,Apoyo moderado,Frecuentemente
+11,2024-11-05,27,M,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Irregular,Muy variable,Normal,Positivo,No,Frecuentemente,Muy satisfactorias,Apoyo moderado,Raramente
+12,2024-09-22,24,O,"Menos de $10,000",Universidad,Estudiante,Irregular,Normal,Normal,Neutral,Ocasionalmente,Frecuentemente,Satisfactorias,Sin apoyo,Raramente
+13,2024-10-21,22,M,"Más de $30,000",Secundaria,Desempleado,Regular y suficiente,Aumentado,Normal,Positivo,Ocasionalmente,Ocasionalmente,Regulares,Mucho apoyo,Frecuentemente
+14,2024-08-21,62,M,"$10,000 - $20,000",Primaria,Empleado tiempo completo,Duerme demasiado,Aumentado,Alto,Variable,No,Ocasionalmente,Regulares,Apoyo moderado,Raramente
+15,2024-09-25,46,F,"Más de $30,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Neutral,Frecuentemente,Frecuentemente,Regulares,Mucho apoyo,Frecuentemente
+16,2024-10-01,62,F,"$10,000 - $20,000",Universidad,Desempleado,Regular y suficiente,Aumentado,Bajo,Neutral,No,Frecuentemente,Muy satisfactorias,Poco apoyo,Raramente
+17,2024-07-14,46,F,"$20,000 - $30,000",Posgrado,Empleado tiempo completo,Duerme demasiado,Disminuido,Bajo,Neutral,No,Raramente,Regulares,Mucho apoyo,Frecuentemente
+18,2024-06-03,50,F,"$10,000 - $20,000",Primaria,Empleado medio tiempo,Insomnio frecuente,Aumentado,Bajo,Positivo,No,Frecuentemente,Regulares,Mucho apoyo,Ocasionalmente
+19,2024-06-20,50,M,"Más de $30,000",Universidad,Empleado tiempo completo,Irregular,Normal,Normal,Positivo,Frecuentemente,Raramente,Regulares,Apoyo moderado,Raramente
+20,2024-09-26,33,F,"Menos de $10,000",Primaria,Empleado tiempo completo,Irregular,Muy variable,Bajo,Neutral,Ocasionalmente,Frecuentemente,Satisfactorias,Poco apoyo,Ocasionalmente
+21,2024-09-25,61,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Regular y suficiente,Normal,Alto,Variable,Siempre,Raramente,Satisfactorias,Poco apoyo,Ocasionalmente
+22,2024-06-03,28,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Regular y suficiente,Aumentado,Normal,Positivo,No,Ocasionalmente,Insatisfactorias,Apoyo moderado,Frecuentemente
+23,2024-06-21,53,M,"$10,000 - $20,000",Secundaria,Desempleado,Irregular,Aumentado,Bajo,Neutral,Ocasionalmente,Ocasionalmente,Insatisfactorias,Poco apoyo,Ocasionalmente
+24,2024-07-09,55,M,"$20,000 - $30,000",Secundaria,Empleado tiempo completo,Duerme demasiado,Disminuido,Bajo,Neutral,Siempre,Raramente,Muy satisfactorias,Mucho apoyo,Raramente
+25,2024-08-08,49,M,"$20,000 - $30,000",Secundaria,Desempleado,Regular y suficiente,Normal,Muy bajo,Neutral,No,Frecuentemente,Muy satisfactorias,Mucho apoyo,Ocasionalmente
+26,2024-08-30,18,F,"$10,000 - $20,000",Universidad,Desempleado,Insomnio frecuente,Disminuido,Alto,Variable,Frecuentemente,Raramente,Regulares,Poco apoyo,Ocasionalmente
+27,2024-06-02,34,F,"Más de $30,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Disminuido,Muy bajo,Positivo,Ocasionalmente,Raramente,Satisfactorias,Mucho apoyo,Raramente
+28,2024-08-16,50,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Regular y suficiente,Disminuido,Bajo,Neutral,Ocasionalmente,Ocasionalmente,Insatisfactorias,Poco apoyo,Raramente
+29,2024-10-09,26,F,"$10,000 - $20,000",Secundaria,Desempleado,Insomnio frecuente,Disminuido,Normal,Positivo,No,Raramente,Muy satisfactorias,Apoyo moderado,Raramente
+30,2024-07-16,63,F,"Más de $30,000",Secundaria,Empleado tiempo completo,Duerme demasiado,Disminuido,Bajo,Neutral,No,Raramente,Regulares,Mucho apoyo,Frecuentemente
+31,2024-08-10,45,M,"Menos de $10,000",Secundaria,Empleado medio tiempo,Duerme demasiado,Normal,Normal,Positivo,No,Raramente,Muy satisfactorias,Poco apoyo,Siempre
+32,2024-08-26,32,F,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Insomnio frecuente,Normal,Normal,Variable,No,Ocasionalmente,Satisfactorias,Mucho apoyo,Ocasionalmente
+33,2024-05-24,54,F,"Más de $30,000",Primaria,Empleado tiempo completo,Regular y suficiente,Aumentado,Bajo,Neutral,Siempre,Ocasionalmente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+34,2024-05-15,31,M,"$10,000 - $20,000",Primaria,Empleado medio tiempo,Irregular,Normal,Normal,Neutral,No,Frecuentemente,Satisfactorias,Poco apoyo,Raramente
+35,2024-10-18,49,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Neutral,Frecuentemente,Raramente,Satisfactorias,Mucho apoyo,Frecuentemente
+36,2024-10-25,26,F,"$10,000 - $20,000",Secundaria,Estudiante,Insomnio frecuente,Aumentado,Normal,Neutral,Ocasionalmente,Frecuentemente,Muy satisfactorias,Mucho apoyo,Raramente
+37,2024-07-27,43,F,"Más de $30,000",Universidad,Empleado medio tiempo,Duerme demasiado,Aumentado,Bajo,Variable,No,Raramente,Insatisfactorias,Mucho apoyo,Frecuentemente
+38,2024-05-29,27,F,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Duerme demasiado,Disminuido,Normal,Variable,Frecuentemente,Raramente,Satisfactorias,Poco apoyo,Ocasionalmente
+39,2024-05-25,23,M,"$20,000 - $30,000",Universidad,Desempleado,Irregular,Muy variable,Alto,Variable,Frecuentemente,Raramente,Regulares,Poco apoyo,Raramente
+40,2024-09-12,46,F,"$10,000 - $20,000",Secundaria,Desempleado,Duerme demasiado,Normal,Normal,Positivo,Frecuentemente,Raramente,Insatisfactorias,Apoyo moderado,Ocasionalmente
+41,2024-11-08,41,F,"Menos de $10,000",Primaria,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Variable,Ocasionalmente,Raramente,Regulares,Poco apoyo,Siempre
+42,2024-08-25,63,M,"Menos de $10,000",Posgrado,Empleado tiempo completo,Irregular,Normal,Alto,Neutral,Frecuentemente,Frecuentemente,Regulares,Mucho apoyo,Ocasionalmente
+43,2024-07-17,64,F,"$20,000 - $30,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Disminuido,Normal,Negativo,Frecuentemente,Frecuentemente,Regulares,Sin apoyo,Ocasionalmente
+44,2024-06-16,19,M,"Menos de $10,000",Secundaria,Empleado medio tiempo,Regular y suficiente,Normal,Bajo,Positivo,Ocasionalmente,Ocasionalmente,Satisfactorias,Apoyo moderado,Ocasionalmente
+45,2024-07-29,57,F,"Menos de $10,000",Universidad,Empleado medio tiempo,Insomnio frecuente,Normal,Bajo,Neutral,Frecuentemente,Constantemente,Insatisfactorias,Mucho apoyo,Raramente
+46,2024-11-07,33,M,"$20,000 - $30,000",Posgrado,Empleado medio tiempo,Duerme demasiado,Muy variable,Alto,Positivo,No,Frecuentemente,Regulares,Apoyo moderado,Ocasionalmente
+47,2024-06-19,63,F,"$20,000 - $30,000",Posgrado,Empleado tiempo completo,Regular y suficiente,Normal,Bajo,Positivo,Frecuentemente,Ocasionalmente,Muy satisfactorias,Poco apoyo,Frecuentemente
+48,2024-08-21,49,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Aumentado,Bajo,Positivo,Ocasionalmente,Raramente,Muy satisfactorias,Mucho apoyo,Frecuentemente
+49,2024-07-24,40,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Regular y suficiente,Normal,Bajo,Neutral,Frecuentemente,Raramente,Satisfactorias,Apoyo moderado,Raramente
+50,2024-09-13,30,M,"Menos de $10,000",Posgrado,Estudiante,Insomnio frecuente,Disminuido,Bajo,Positivo,No,Raramente,Satisfactorias,Sin apoyo,Ocasionalmente
+51,2024-09-16,54,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Regular y suficiente,Aumentado,Normal,Positivo,Ocasionalmente,Raramente,Insatisfactorias,Mucho apoyo,Ocasionalmente
+52,2024-08-02,52,M,"Menos de $10,000",Universidad,Desempleado,Irregular,Aumentado,Bajo,Variable,Frecuentemente,Raramente,Regulares,Apoyo moderado,Ocasionalmente
+53,2024-10-11,42,M,"Menos de $10,000",Secundaria,Empleado tiempo completo,Irregular,Muy variable,Muy bajo,Variable,Siempre,Raramente,Satisfactorias,Apoyo moderado,Raramente
+54,2024-05-30,19,M,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Regular y suficiente,Normal,Normal,Positivo,Ocasionalmente,Constantemente,Regulares,Poco apoyo,Frecuentemente
+55,2024-09-29,64,M,"$10,000 - $20,000",Primaria,Empleado tiempo completo,Irregular,Normal,Muy bajo,Positivo,No,Ocasionalmente,Regulares,Sin apoyo,Ocasionalmente
+56,2024-05-21,22,M,"Menos de $10,000",Posgrado,Empleado tiempo completo,Irregular,Disminuido,Alto,Positivo,No,Ocasionalmente,Satisfactorias,Apoyo moderado,Siempre
+57,2024-09-25,41,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Irregular,Normal,Alto,Positivo,No,Frecuentemente,Insatisfactorias,Apoyo moderado,Frecuentemente
+58,2024-10-05,35,M,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Insomnio frecuente,Normal,Alto,Positivo,Frecuentemente,Ocasionalmente,Insatisfactorias,Mucho apoyo,Frecuentemente
+59,2024-08-31,55,F,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Irregular,Normal,Alto,Variable,Frecuentemente,Raramente,Satisfactorias,Apoyo moderado,Ocasionalmente
+60,2024-05-31,62,M,"Menos de $10,000",Secundaria,Empleado medio tiempo,Insomnio frecuente,Aumentado,Bajo,Neutral,No,Ocasionalmente,Muy satisfactorias,Apoyo moderado,Raramente
+61,2024-08-14,26,F,"Menos de $10,000",Universidad,Empleado medio tiempo,Irregular,Disminuido,Alto,Variable,No,Constantemente,Regulares,Poco apoyo,Ocasionalmente
+62,2024-05-21,30,F,"Menos de $10,000",Primaria,Estudiante,Duerme demasiado,Disminuido,Bajo,Variable,Siempre,Raramente,Muy satisfactorias,Sin apoyo,Raramente
+63,2024-06-04,42,M,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Positivo,Ocasionalmente,Constantemente,Satisfactorias,Poco apoyo,Raramente
+64,2024-08-19,39,F,"$20,000 - $30,000",Secundaria,Empleado medio tiempo,Regular y suficiente,Normal,Bajo,Variable,Ocasionalmente,Raramente,Insatisfactorias,Mucho apoyo,Raramente
+65,2024-11-04,56,F,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Regular y suficiente,Disminuido,Alto,Neutral,Ocasionalmente,Raramente,Muy satisfactorias,Mucho apoyo,Raramente
+66,2024-10-15,42,F,"Más de $30,000",Universidad,Empleado medio tiempo,Irregular,Normal,Normal,Variable,Ocasionalmente,Ocasionalmente,Insatisfactorias,Mucho apoyo,Raramente
+67,2024-05-14,47,M,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Irregular,Normal,Alto,Positivo,Ocasionalmente,Frecuentemente,Regulares,Mucho apoyo,Frecuentemente
+68,2024-07-11,23,F,"Menos de $10,000",Secundaria,Empleado tiempo completo,Irregular,Normal,Bajo,Neutral,No,Raramente,Muy satisfactorias,Sin apoyo,Ocasionalmente
+69,2024-06-22,22,M,"$10,000 - $20,000",Secundaria,Estudiante,Regular y suficiente,Normal,Normal,Neutral,Frecuentemente,Raramente,Satisfactorias,Poco apoyo,Raramente
+70,2024-10-13,59,F,"Menos de $10,000",Secundaria,Empleado medio tiempo,Insomnio frecuente,Disminuido,Alto,Variable,Ocasionalmente,Raramente,Satisfactorias,Poco apoyo,Ocasionalmente
+71,2024-06-22,31,F,"$20,000 - $30,000",Universidad,Desempleado,Irregular,Aumentado,Muy bajo,Variable,No,Raramente,Regulares,Mucho apoyo,Frecuentemente
+72,2024-06-03,44,F,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Regular y suficiente,Normal,Alto,Variable,No,Ocasionalmente,Regulares,Mucho apoyo,Raramente
+73,2024-10-20,41,F,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Irregular,Disminuido,Alto,Neutral,Ocasionalmente,Ocasionalmente,Regulares,Mucho apoyo,Ocasionalmente
+74,2024-06-22,58,M,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Insomnio frecuente,Aumentado,Bajo,Variable,Frecuentemente,Frecuentemente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+75,2024-09-07,55,M,"Menos de $10,000",Secundaria,Desempleado,Regular y suficiente,Disminuido,Muy bajo,Variable,Ocasionalmente,Raramente,Regulares,Sin apoyo,Frecuentemente
+76,2024-10-30,18,F,"Menos de $10,000",Posgrado,Desempleado,Regular y suficiente,Normal,Bajo,Positivo,Frecuentemente,Frecuentemente,Satisfactorias,Sin apoyo,Raramente
+77,2024-10-12,31,M,"$10,000 - $20,000",Universidad,Desempleado,Regular y suficiente,Aumentado,Alto,Positivo,Siempre,Ocasionalmente,Regulares,Mucho apoyo,Ocasionalmente
+78,2024-07-08,47,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Variable,No,Ocasionalmente,Satisfactorias,Mucho apoyo,Raramente
+79,2024-07-13,23,M,"Más de $30,000",Primaria,Desempleado,Regular y suficiente,Muy variable,Bajo,Positivo,Frecuentemente,Constantemente,Satisfactorias,Sin apoyo,Raramente
+80,2024-07-12,49,M,"Menos de $10,000",Universidad,Empleado medio tiempo,Regular y suficiente,Normal,Alto,Neutral,No,Raramente,Satisfactorias,Mucho apoyo,Siempre
+81,2024-09-01,52,F,"Menos de $10,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Disminuido,Normal,Positivo,Ocasionalmente,Frecuentemente,Regulares,Apoyo moderado,Ocasionalmente
+82,2024-08-18,32,F,"$10,000 - $20,000",Secundaria,Desempleado,Irregular,Normal,Normal,Positivo,Frecuentemente,Constantemente,Satisfactorias,Mucho apoyo,Raramente
+83,2024-07-25,48,M,"Menos de $10,000",Primaria,Empleado tiempo completo,Irregular,Muy variable,Muy bajo,Variable,No,Frecuentemente,Muy satisfactorias,Mucho apoyo,Raramente
+84,2024-10-08,46,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Disminuido,Normal,Positivo,Ocasionalmente,Raramente,Satisfactorias,Apoyo moderado,Frecuentemente
+85,2024-08-21,59,M,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Irregular,Normal,Normal,Positivo,Ocasionalmente,Raramente,Muy satisfactorias,Mucho apoyo,Frecuentemente
+86,2024-09-26,61,M,"$10,000 - $20,000",Universidad,Desempleado,Regular y suficiente,Normal,Normal,Positivo,No,Frecuentemente,Insatisfactorias,Poco apoyo,Siempre
+87,2024-09-01,60,F,"Más de $30,000",Universidad,Empleado medio tiempo,Irregular,Aumentado,Alto,Variable,No,Raramente,Regulares,Mucho apoyo,Frecuentemente
+88,2024-10-04,23,F,"Menos de $10,000",Universidad,Desempleado,Regular y suficiente,Disminuido,Alto,Neutral,No,Ocasionalmente,Satisfactorias,Apoyo moderado,Ocasionalmente
+89,2024-09-29,45,F,"Menos de $10,000",Universidad,Desempleado,Irregular,Normal,Normal,Variable,No,Frecuentemente,Regulares,Apoyo moderado,Raramente
+90,2024-09-20,23,M,"$20,000 - $30,000",Primaria,Empleado tiempo completo,Regular y suficiente,Normal,Muy bajo,Neutral,Siempre,Frecuentemente,Satisfactorias,Mucho apoyo,Ocasionalmente
+91,2024-08-28,63,M,"$10,000 - $20,000",Secundaria,Desempleado,Regular y suficiente,Disminuido,Normal,Variable,No,Frecuentemente,Insatisfactorias,Apoyo moderado,Frecuentemente
+92,2024-08-16,34,M,"$20,000 - $30,000",Universidad,Empleado tiempo completo,Regular y suficiente,Normal,Alto,Negativo,Ocasionalmente,Constantemente,Muy satisfactorias,Mucho apoyo,Ocasionalmente
+93,2024-10-08,25,M,"Más de $30,000",Posgrado,Empleado tiempo completo,Irregular,Normal,Bajo,Positivo,Ocasionalmente,Ocasionalmente,Muy satisfactorias,Mucho apoyo,Ocasionalmente
+94,2024-08-13,33,M,"$10,000 - $20,000",Primaria,Empleado tiempo completo,Regular y suficiente,Disminuido,Bajo,Neutral,Ocasionalmente,Raramente,Regulares,Poco apoyo,Raramente
+95,2024-09-14,62,F,"Más de $30,000",Universidad,Empleado medio tiempo,Irregular,Disminuido,Bajo,Negativo,Ocasionalmente,Ocasionalmente,Muy satisfactorias,Sin apoyo,Raramente
+96,2024-05-25,36,M,"$10,000 - $20,000",Universidad,Desempleado,Irregular,Disminuido,Alto,Variable,Ocasionalmente,Ocasionalmente,Insatisfactorias,Mucho apoyo,Raramente
+97,2024-09-12,45,F,"Más de $30,000",Posgrado,Empleado tiempo completo,Regular y suficiente,Normal,Bajo,Positivo,Ocasionalmente,Ocasionalmente,Insatisfactorias,Mucho apoyo,Frecuentemente
+98,2024-06-18,57,M,"Menos de $10,000",Secundaria,Estudiante,Duerme demasiado,Disminuido,Normal,Neutral,Ocasionalmente,Ocasionalmente,Satisfactorias,Poco apoyo,Raramente
+99,2024-11-09,20,F,"$20,000 - $30,000",Secundaria,Estudiante,Duerme demasiado,Disminuido,Bajo,Positivo,Siempre,Raramente,Regulares,Mucho apoyo,Ocasionalmente
+100,2024-07-06,43,F,"Menos de $10,000",Secundaria,Empleado tiempo completo,Insomnio frecuente,Normal,Bajo,Neutral,Ocasionalmente,Frecuentemente,Muy satisfactorias,Poco apoyo,Ocasionalmente
+101,2024-06-17,50,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Irregular,Disminuido,Bajo,Neutral,Ocasionalmente,Raramente,Satisfactorias,Apoyo moderado,Ocasionalmente
+102,2024-08-29,23,M,"$20,000 - $30,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Normal,Normal,Positivo,Siempre,Raramente,Satisfactorias,Poco apoyo,Raramente
+103,2024-07-13,49,M,"$20,000 - $30,000",Posgrado,Desempleado,Insomnio frecuente,Muy variable,Normal,Positivo,Frecuentemente,Constantemente,Muy satisfactorias,Mucho apoyo,Ocasionalmente
+104,2024-07-18,35,M,"$10,000 - $20,000",Posgrado,Empleado tiempo completo,Insomnio frecuente,Normal,Normal,Neutral,No,Frecuentemente,Regulares,Mucho apoyo,Frecuentemente
+105,2024-07-08,55,F,"Menos de $10,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Aumentado,Normal,Variable,Frecuentemente,Constantemente,Muy satisfactorias,Apoyo moderado,Siempre
+106,2024-09-28,24,M,"Menos de $10,000",Universidad,Empleado medio tiempo,Regular y suficiente,Normal,Normal,Variable,Frecuentemente,Frecuentemente,Muy satisfactorias,Mucho apoyo,Frecuentemente
+107,2024-10-31,44,O,"Más de $30,000",Secundaria,Estudiante,Irregular,Muy variable,Normal,Variable,Siempre,Frecuentemente,Regulares,Poco apoyo,Ocasionalmente
+108,2024-06-24,56,F,"Más de $30,000",Posgrado,Empleado medio tiempo,Regular y suficiente,Disminuido,Normal,Neutral,No,Raramente,Satisfactorias,Apoyo moderado,Raramente
+109,2024-06-29,52,F,"Más de $30,000",Primaria,Empleado tiempo completo,Insomnio frecuente,Normal,Normal,Neutral,No,Ocasionalmente,Satisfactorias,Mucho apoyo,Raramente
+110,2024-11-01,24,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Irregular,Aumentado,Alto,Variable,Frecuentemente,Ocasionalmente,Muy satisfactorias,Mucho apoyo,Raramente
+111,2024-09-01,36,M,"Menos de $10,000",Universidad,Empleado medio tiempo,Irregular,Disminuido,Bajo,Neutral,Ocasionalmente,Frecuentemente,Regulares,Mucho apoyo,Raramente
+112,2024-10-30,25,M,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Regular y suficiente,Disminuido,Bajo,Variable,Ocasionalmente,Raramente,Satisfactorias,Poco apoyo,Siempre
+113,2024-08-21,38,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Irregular,Muy variable,Bajo,Variable,Ocasionalmente,Constantemente,Satisfactorias,Mucho apoyo,Ocasionalmente
+114,2024-06-07,43,M,"$20,000 - $30,000",Universidad,Desempleado,Regular y suficiente,Aumentado,Bajo,Neutral,Ocasionalmente,Constantemente,Insatisfactorias,Apoyo moderado,Ocasionalmente
+115,2024-06-14,28,F,"$10,000 - $20,000",Posgrado,Empleado tiempo completo,Irregular,Normal,Normal,Negativo,Ocasionalmente,Raramente,Regulares,Apoyo moderado,Raramente
+116,2024-08-24,45,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Irregular,Disminuido,Alto,Neutral,Frecuentemente,Ocasionalmente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+117,2024-11-04,61,M,"$10,000 - $20,000",Primaria,Empleado tiempo completo,Duerme demasiado,Aumentado,Alto,Variable,No,Ocasionalmente,Muy satisfactorias,Poco apoyo,Ocasionalmente
+118,2024-06-17,52,F,"Menos de $10,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Normal,Bajo,Positivo,Frecuentemente,Frecuentemente,Muy satisfactorias,Poco apoyo,Ocasionalmente
+119,2024-08-15,41,F,"Menos de $10,000",Universidad,Empleado medio tiempo,Regular y suficiente,Normal,Normal,Neutral,No,Frecuentemente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+120,2024-09-29,44,M,"$10,000 - $20,000",Universidad,Estudiante,Irregular,Normal,Alto,Positivo,Ocasionalmente,Frecuentemente,Regulares,Mucho apoyo,Frecuentemente
+121,2024-07-22,38,F,"$10,000 - $20,000",Secundaria,Desempleado,Irregular,Disminuido,Bajo,Neutral,No,Constantemente,Muy satisfactorias,Mucho apoyo,Ocasionalmente
+122,2024-06-17,31,F,"Menos de $10,000",Primaria,Desempleado,Regular y suficiente,Normal,Normal,Neutral,No,Raramente,Satisfactorias,Mucho apoyo,Frecuentemente
+123,2024-06-07,38,M,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Irregular,Disminuido,Bajo,Variable,Frecuentemente,Raramente,Muy satisfactorias,Mucho apoyo,Ocasionalmente
+124,2024-09-08,34,F,"Más de $30,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Disminuido,Alto,Neutral,Ocasionalmente,Ocasionalmente,Satisfactorias,Mucho apoyo,Raramente
+125,2024-08-01,48,M,"Menos de $10,000",Secundaria,Empleado medio tiempo,Irregular,Aumentado,Muy bajo,Variable,No,Raramente,Insatisfactorias,Apoyo moderado,Ocasionalmente
+126,2024-10-20,44,F,"Más de $30,000",Universidad,Desempleado,Irregular,Aumentado,Bajo,Neutral,No,Ocasionalmente,Regulares,Mucho apoyo,Ocasionalmente
+127,2024-11-01,56,M,"$10,000 - $20,000",Secundaria,Desempleado,Insomnio frecuente,Normal,Alto,Neutral,Frecuentemente,Frecuentemente,Muy satisfactorias,Apoyo moderado,Raramente
+128,2024-10-15,41,M,"$10,000 - $20,000",Universidad,Estudiante,Irregular,Disminuido,Alto,Negativo,No,Ocasionalmente,Satisfactorias,Apoyo moderado,Raramente
+129,2024-07-02,18,F,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Normal,Normal,Positivo,Ocasionalmente,Raramente,Muy satisfactorias,Mucho apoyo,Frecuentemente
+130,2024-06-15,56,M,"$20,000 - $30,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Normal,Bajo,Positivo,Ocasionalmente,Frecuentemente,Satisfactorias,Mucho apoyo,Siempre
+131,2024-05-14,59,F,"$10,000 - $20,000",Secundaria,Desempleado,Regular y suficiente,Normal,Normal,Positivo,No,Frecuentemente,Muy satisfactorias,Poco apoyo,Siempre
+132,2024-10-19,61,M,"$10,000 - $20,000",Posgrado,Desempleado,Irregular,Aumentado,Bajo,Neutral,No,Ocasionalmente,Insatisfactorias,Mucho apoyo,Frecuentemente
+133,2024-07-09,34,F,"Menos de $10,000",Universidad,Empleado medio tiempo,Regular y suficiente,Normal,Normal,Variable,Ocasionalmente,Ocasionalmente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+134,2024-07-02,64,O,"Menos de $10,000",Secundaria,Desempleado,Regular y suficiente,Normal,Alto,Positivo,Frecuentemente,Constantemente,Muy satisfactorias,Mucho apoyo,Frecuentemente
+135,2024-05-16,44,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Irregular,Disminuido,Normal,Positivo,No,Ocasionalmente,Regulares,Poco apoyo,Raramente
+136,2024-10-12,32,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Regular y suficiente,Aumentado,Bajo,Neutral,Frecuentemente,Ocasionalmente,Satisfactorias,Poco apoyo,Siempre
+137,2024-08-12,61,O,"Menos de $10,000",Posgrado,Desempleado,Regular y suficiente,Disminuido,Bajo,Neutral,Frecuentemente,Constantemente,Satisfactorias,Apoyo moderado,Frecuentemente
+138,2024-10-31,65,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Irregular,Muy variable,Normal,Neutral,Frecuentemente,Constantemente,Muy satisfactorias,Mucho apoyo,Siempre
+139,2024-10-31,47,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Normal,Normal,Neutral,No,Frecuentemente,Regulares,Poco apoyo,Frecuentemente
+140,2024-10-03,38,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Neutral,Ocasionalmente,Frecuentemente,Regulares,Apoyo moderado,Raramente
+141,2024-06-26,18,F,"$20,000 - $30,000",Secundaria,Empleado tiempo completo,Irregular,Normal,Bajo,Neutral,Ocasionalmente,Ocasionalmente,Muy satisfactorias,Mucho apoyo,Raramente
+142,2024-10-16,58,F,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Muy variable,Bajo,Positivo,Ocasionalmente,Raramente,Satisfactorias,Mucho apoyo,Ocasionalmente
+143,2024-07-08,63,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Aumentado,Bajo,Variable,Frecuentemente,Constantemente,Regulares,Apoyo moderado,Ocasionalmente
+144,2024-10-26,25,F,"$20,000 - $30,000",Universidad,Empleado tiempo completo,Regular y suficiente,Aumentado,Muy bajo,Negativo,Ocasionalmente,Raramente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+145,2024-07-29,54,M,"Menos de $10,000",Posgrado,Empleado tiempo completo,Irregular,Muy variable,Bajo,Negativo,Ocasionalmente,Raramente,Satisfactorias,Apoyo moderado,Siempre
+146,2024-09-14,45,F,"$20,000 - $30,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Normal,Muy bajo,Neutral,Ocasionalmente,Ocasionalmente,Muy satisfactorias,Mucho apoyo,Raramente
+147,2024-08-19,26,F,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Duerme demasiado,Muy variable,Bajo,Neutral,Ocasionalmente,Raramente,Muy satisfactorias,Mucho apoyo,Raramente
+148,2024-06-06,62,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Irregular,Disminuido,Alto,Variable,Frecuentemente,Raramente,Satisfactorias,Mucho apoyo,Frecuentemente
+149,2024-09-26,20,M,"Menos de $10,000",Primaria,Empleado medio tiempo,Irregular,Normal,Bajo,Neutral,No,Raramente,Muy satisfactorias,Mucho apoyo,Frecuentemente
+150,2024-05-20,38,F,"$20,000 - $30,000",Primaria,Empleado tiempo completo,Irregular,Disminuido,Alto,Positivo,Siempre,Constantemente,Muy satisfactorias,Mucho apoyo,Ocasionalmente
+151,2024-10-24,27,F,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Insomnio frecuente,Aumentado,Muy bajo,Positivo,No,Ocasionalmente,Regulares,Apoyo moderado,Raramente
+152,2024-05-16,46,M,"$10,000 - $20,000",Universidad,Desempleado,Insomnio frecuente,Normal,Alto,Neutral,No,Frecuentemente,Insatisfactorias,Mucho apoyo,Siempre
+153,2024-09-26,33,M,"$20,000 - $30,000",Universidad,Empleado tiempo completo,Irregular,Disminuido,Alto,Neutral,No,Ocasionalmente,Regulares,Poco apoyo,Frecuentemente
+154,2024-06-11,57,M,"$20,000 - $30,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Normal,Bajo,Neutral,Siempre,Raramente,Muy satisfactorias,Sin apoyo,Ocasionalmente
+155,2024-09-19,34,F,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Irregular,Aumentado,Alto,Neutral,No,Raramente,Regulares,Apoyo moderado,Ocasionalmente
+156,2024-09-26,49,F,"$20,000 - $30,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Disminuido,Normal,Variable,No,Raramente,Satisfactorias,Poco apoyo,Raramente
+157,2024-10-19,56,M,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Insomnio frecuente,Normal,Bajo,Variable,No,Raramente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+158,2024-11-06,60,F,"$10,000 - $20,000",Secundaria,Estudiante,Irregular,Normal,Alto,Positivo,Frecuentemente,Constantemente,Insatisfactorias,Mucho apoyo,Ocasionalmente
+159,2024-09-02,37,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Irregular,Disminuido,Bajo,Neutral,Siempre,Raramente,Regulares,Mucho apoyo,Frecuentemente
+160,2024-08-05,53,M,"$10,000 - $20,000",Secundaria,Estudiante,Regular y suficiente,Aumentado,Alto,Positivo,Ocasionalmente,Frecuentemente,Satisfactorias,Sin apoyo,Ocasionalmente
+161,2024-11-02,50,M,"$20,000 - $30,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Aumentado,Bajo,Variable,Ocasionalmente,Ocasionalmente,Satisfactorias,Mucho apoyo,Ocasionalmente
+162,2024-08-09,22,F,"$10,000 - $20,000",Universidad,Desempleado,Irregular,Aumentado,Muy bajo,Variable,Siempre,Frecuentemente,Muy satisfactorias,Apoyo moderado,Frecuentemente
+163,2024-10-05,45,M,"Menos de $10,000",Secundaria,Empleado tiempo completo,Insomnio frecuente,Disminuido,Normal,Variable,Frecuentemente,Raramente,Satisfactorias,Poco apoyo,Frecuentemente
+164,2024-10-09,27,M,"Menos de $10,000",Secundaria,Desempleado,Irregular,Normal,Bajo,Positivo,Ocasionalmente,Ocasionalmente,Satisfactorias,Apoyo moderado,Raramente
+165,2024-06-29,54,F,"Menos de $10,000",Posgrado,Empleado medio tiempo,Duerme demasiado,Normal,Normal,Positivo,No,Raramente,Satisfactorias,Mucho apoyo,Frecuentemente
+166,2024-05-28,62,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Irregular,Disminuido,Normal,Neutral,No,Frecuentemente,Muy satisfactorias,Apoyo moderado,Raramente
+167,2024-05-15,54,M,"$10,000 - $20,000",Primaria,Empleado medio tiempo,Irregular,Muy variable,Muy bajo,Variable,No,Raramente,Muy satisfactorias,Apoyo moderado,Frecuentemente
+168,2024-06-09,49,M,"$20,000 - $30,000",Universidad,Estudiante,Regular y suficiente,Disminuido,Alto,Positivo,No,Raramente,Satisfactorias,Mucho apoyo,Raramente
+169,2024-08-14,28,M,"Más de $30,000",Universidad,Desempleado,Insomnio frecuente,Normal,Normal,Neutral,No,Ocasionalmente,Muy satisfactorias,Mucho apoyo,Raramente
+170,2024-10-12,55,M,"$10,000 - $20,000",Secundaria,Estudiante,Regular y suficiente,Aumentado,Muy bajo,Neutral,No,Ocasionalmente,Satisfactorias,Sin apoyo,Frecuentemente
+171,2024-10-13,26,M,"$20,000 - $30,000",Secundaria,Desempleado,Irregular,Normal,Normal,Variable,Frecuentemente,Ocasionalmente,Regulares,Sin apoyo,Frecuentemente
+172,2024-07-22,18,M,"Menos de $10,000",Primaria,Desempleado,Insomnio frecuente,Disminuido,Normal,Neutral,No,Ocasionalmente,Satisfactorias,Sin apoyo,Frecuentemente
+173,2024-10-15,57,O,"Menos de $10,000",Secundaria,Empleado medio tiempo,Regular y suficiente,Disminuido,Normal,Positivo,No,Constantemente,Satisfactorias,Mucho apoyo,Raramente
+174,2024-09-19,35,F,"$10,000 - $20,000",Secundaria,Desempleado,Irregular,Normal,Alto,Positivo,Frecuentemente,Ocasionalmente,Satisfactorias,Mucho apoyo,Siempre
+175,2024-07-02,20,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Normal,Alto,Negativo,No,Ocasionalmente,Satisfactorias,Apoyo moderado,Ocasionalmente
+176,2024-06-09,20,M,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Regular y suficiente,Disminuido,Normal,Positivo,No,Ocasionalmente,Regulares,Mucho apoyo,Frecuentemente
+177,2024-07-29,20,F,"$10,000 - $20,000",Secundaria,Desempleado,Insomnio frecuente,Muy variable,Normal,Variable,Frecuentemente,Frecuentemente,Satisfactorias,Mucho apoyo,Raramente
+178,2024-10-04,19,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Irregular,Disminuido,Normal,Positivo,Ocasionalmente,Ocasionalmente,Insatisfactorias,Sin apoyo,Raramente
+179,2024-09-08,63,M,"$20,000 - $30,000",Secundaria,Estudiante,Regular y suficiente,Muy variable,Muy bajo,Neutral,Frecuentemente,Frecuentemente,Satisfactorias,Poco apoyo,Ocasionalmente
+180,2024-07-10,29,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Regular y suficiente,Aumentado,Normal,Positivo,Ocasionalmente,Constantemente,Satisfactorias,Poco apoyo,Ocasionalmente
+181,2024-08-06,54,M,"$10,000 - $20,000",Universidad,Desempleado,Irregular,Disminuido,Normal,Positivo,Siempre,Raramente,Regulares,Poco apoyo,Raramente
+182,2024-08-02,53,F,"Menos de $10,000",Primaria,Empleado medio tiempo,Irregular,Disminuido,Bajo,Positivo,No,Frecuentemente,Satisfactorias,Mucho apoyo,Frecuentemente
+183,2024-07-21,32,F,"$10,000 - $20,000",Universidad,Estudiante,Regular y suficiente,Disminuido,Alto,Variable,Ocasionalmente,Ocasionalmente,Satisfactorias,Poco apoyo,Ocasionalmente
+184,2024-09-27,23,F,"Menos de $10,000",Secundaria,Empleado tiempo completo,Irregular,Normal,Bajo,Positivo,No,Raramente,Muy satisfactorias,Poco apoyo,Siempre
+185,2024-09-20,44,O,"$10,000 - $20,000",Posgrado,Estudiante,Regular y suficiente,Normal,Alto,Neutral,Frecuentemente,Constantemente,Insatisfactorias,Mucho apoyo,Frecuentemente
+186,2024-09-14,65,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Regular y suficiente,Aumentado,Alto,Positivo,Ocasionalmente,Frecuentemente,Satisfactorias,Sin apoyo,Raramente
+187,2024-08-28,20,F,"$10,000 - $20,000",Primaria,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Negativo,Frecuentemente,Ocasionalmente,Muy satisfactorias,Sin apoyo,Raramente
+188,2024-09-16,21,M,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Insomnio frecuente,Normal,Muy bajo,Variable,No,Frecuentemente,Regulares,Apoyo moderado,Ocasionalmente
+189,2024-07-08,29,M,"$20,000 - $30,000",Universidad,Desempleado,Insomnio frecuente,Normal,Normal,Positivo,Frecuentemente,Raramente,Insatisfactorias,Mucho apoyo,Ocasionalmente
+190,2024-08-16,49,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Normal,Alto,Positivo,Frecuentemente,Frecuentemente,Muy satisfactorias,Sin apoyo,Ocasionalmente
+191,2024-05-15,30,M,"$10,000 - $20,000",Secundaria,Desempleado,Regular y suficiente,Disminuido,Normal,Positivo,Ocasionalmente,Frecuentemente,Regulares,Poco apoyo,Ocasionalmente
+192,2024-08-25,20,M,"Menos de $10,000",Secundaria,Empleado tiempo completo,Irregular,Disminuido,Normal,Neutral,Ocasionalmente,Constantemente,Muy satisfactorias,Sin apoyo,Siempre
+193,2024-07-14,45,F,"Menos de $10,000",Secundaria,Desempleado,Insomnio frecuente,Disminuido,Bajo,Variable,Frecuentemente,Ocasionalmente,Regulares,Mucho apoyo,Siempre
+194,2024-08-19,48,M,"$20,000 - $30,000",Secundaria,Desempleado,Duerme demasiado,Disminuido,Normal,Positivo,Frecuentemente,Raramente,Satisfactorias,Mucho apoyo,Frecuentemente
+195,2024-08-06,35,M,"$10,000 - $20,000",Universidad,Desempleado,Irregular,Disminuido,Normal,Negativo,Ocasionalmente,Ocasionalmente,Insatisfactorias,Apoyo moderado,Ocasionalmente
+196,2024-07-17,31,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Irregular,Aumentado,Normal,Neutral,Siempre,Frecuentemente,Muy satisfactorias,Mucho apoyo,Raramente
+197,2024-06-23,50,F,"$20,000 - $30,000",Primaria,Empleado tiempo completo,Regular y suficiente,Disminuido,Bajo,Positivo,No,Constantemente,Satisfactorias,Sin apoyo,Ocasionalmente
+198,2024-09-03,40,F,"$20,000 - $30,000",Posgrado,Desempleado,Insomnio frecuente,Normal,Normal,Variable,No,Frecuentemente,Insatisfactorias,Apoyo moderado,Siempre
+199,2024-09-15,46,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Irregular,Normal,Bajo,Variable,No,Raramente,Insatisfactorias,Mucho apoyo,Raramente
+200,2024-10-15,38,F,"Menos de $10,000",Universidad,Desempleado,Regular y suficiente,Aumentado,Muy bajo,Variable,Siempre,Ocasionalmente,Satisfactorias,Mucho apoyo,Siempre
+201,2024-09-12,65,F,"$10,000 - $20,000",Primaria,Desempleado,Regular y suficiente,Muy variable,Normal,Positivo,Ocasionalmente,Ocasionalmente,Muy satisfactorias,Mucho apoyo,Siempre
+202,2024-10-15,20,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Irregular,Normal,Normal,Positivo,Ocasionalmente,Ocasionalmente,Satisfactorias,Mucho apoyo,Frecuentemente
+203,2024-06-19,42,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Disminuido,Bajo,Neutral,Ocasionalmente,Raramente,Regulares,Poco apoyo,Raramente
+204,2024-05-28,44,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Muy variable,Bajo,Neutral,Frecuentemente,Frecuentemente,Satisfactorias,Apoyo moderado,Raramente
+205,2024-11-02,59,M,"$20,000 - $30,000",Primaria,Empleado tiempo completo,Insomnio frecuente,Normal,Bajo,Neutral,No,Ocasionalmente,Regulares,Sin apoyo,Ocasionalmente
+206,2024-06-28,61,M,"Menos de $10,000",Universidad,Estudiante,Regular y suficiente,Normal,Normal,Positivo,Ocasionalmente,Ocasionalmente,Satisfactorias,Apoyo moderado,Ocasionalmente
+207,2024-09-17,54,F,"Menos de $10,000",Secundaria,Desempleado,Regular y suficiente,Aumentado,Alto,Neutral,Frecuentemente,Ocasionalmente,Regulares,Apoyo moderado,Frecuentemente
+208,2024-07-13,50,F,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Regular y suficiente,Aumentado,Alto,Positivo,Ocasionalmente,Frecuentemente,Insatisfactorias,Mucho apoyo,Raramente
+209,2024-08-31,39,F,"$10,000 - $20,000",Secundaria,Empleado medio tiempo,Regular y suficiente,Disminuido,Bajo,Negativo,Frecuentemente,Frecuentemente,Muy satisfactorias,Apoyo moderado,Raramente
+210,2024-07-02,60,F,"Menos de $10,000",Secundaria,Empleado medio tiempo,Irregular,Normal,Normal,Variable,Frecuentemente,Raramente,Muy satisfactorias,Poco apoyo,Frecuentemente
+211,2024-08-06,42,F,"$20,000 - $30,000",Secundaria,Empleado medio tiempo,Insomnio frecuente,Normal,Alto,Neutral,Ocasionalmente,Ocasionalmente,Regulares,Sin apoyo,Ocasionalmente
+212,2024-08-08,47,F,"$20,000 - $30,000",Primaria,Empleado tiempo completo,Insomnio frecuente,Disminuido,Alto,Negativo,Frecuentemente,Constantemente,Satisfactorias,Mucho apoyo,Ocasionalmente
+213,2024-07-13,55,M,"$10,000 - $20,000",Secundaria,Empleado medio tiempo,Regular y suficiente,Disminuido,Normal,Neutral,Frecuentemente,Constantemente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+214,2024-11-05,23,M,"Menos de $10,000",Universidad,Empleado medio tiempo,Regular y suficiente,Normal,Alto,Neutral,Ocasionalmente,Ocasionalmente,Muy satisfactorias,Sin apoyo,Ocasionalmente
+215,2024-06-18,31,M,"$10,000 - $20,000",Secundaria,Empleado medio tiempo,Regular y suficiente,Disminuido,Normal,Positivo,No,Ocasionalmente,Muy satisfactorias,Poco apoyo,Ocasionalmente
+216,2024-10-06,40,M,"$20,000 - $30,000",Secundaria,Empleado tiempo completo,Insomnio frecuente,Normal,Normal,Positivo,No,Ocasionalmente,Satisfactorias,Poco apoyo,Ocasionalmente
+217,2024-06-22,35,M,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Irregular,Normal,Muy bajo,Positivo,Frecuentemente,Ocasionalmente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+218,2024-09-16,32,F,"$10,000 - $20,000",Universidad,Desempleado,Regular y suficiente,Muy variable,Alto,Negativo,Frecuentemente,Frecuentemente,Insatisfactorias,Mucho apoyo,Frecuentemente
+219,2024-07-29,39,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Normal,Normal,Positivo,No,Raramente,Satisfactorias,Sin apoyo,Siempre
+220,2024-07-11,50,M,"Más de $30,000",Secundaria,Empleado tiempo completo,Irregular,Normal,Normal,Variable,Ocasionalmente,Constantemente,Muy satisfactorias,Poco apoyo,Siempre
+221,2024-07-10,33,M,"Más de $30,000",Secundaria,Desempleado,Insomnio frecuente,Disminuido,Normal,Negativo,Ocasionalmente,Frecuentemente,Insatisfactorias,Apoyo moderado,Ocasionalmente
+222,2024-10-29,30,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Duerme demasiado,Aumentado,Normal,Neutral,Siempre,Frecuentemente,Regulares,Apoyo moderado,Ocasionalmente
+223,2024-09-22,33,F,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Disminuido,Normal,Variable,Siempre,Raramente,Regulares,Apoyo moderado,Frecuentemente
+224,2024-06-15,60,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Duerme demasiado,Muy variable,Normal,Positivo,No,Constantemente,Satisfactorias,Mucho apoyo,Raramente
+225,2024-09-11,41,M,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Duerme demasiado,Aumentado,Normal,Positivo,Ocasionalmente,Frecuentemente,Regulares,Apoyo moderado,Frecuentemente
+226,2024-07-28,22,F,"$10,000 - $20,000",Primaria,Desempleado,Duerme demasiado,Aumentado,Normal,Positivo,No,Constantemente,Muy satisfactorias,Poco apoyo,Siempre
+227,2024-06-19,51,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Insomnio frecuente,Muy variable,Bajo,Variable,Ocasionalmente,Frecuentemente,Insatisfactorias,Mucho apoyo,Frecuentemente
+228,2024-11-08,43,F,"$10,000 - $20,000",Secundaria,Empleado medio tiempo,Insomnio frecuente,Normal,Normal,Neutral,Frecuentemente,Ocasionalmente,Satisfactorias,Sin apoyo,Ocasionalmente
+229,2024-09-28,20,M,"$10,000 - $20,000",Primaria,Empleado tiempo completo,Irregular,Aumentado,Normal,Neutral,Ocasionalmente,Frecuentemente,Regulares,Poco apoyo,Raramente
+230,2024-10-18,33,F,"Menos de $10,000",Universidad,Desempleado,Irregular,Normal,Alto,Neutral,Frecuentemente,Raramente,Satisfactorias,Apoyo moderado,Ocasionalmente
+231,2024-08-13,20,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Disminuido,Normal,Neutral,Siempre,Raramente,Satisfactorias,Mucho apoyo,Frecuentemente
+232,2024-11-07,18,F,"Menos de $10,000",Universidad,Empleado medio tiempo,Regular y suficiente,Aumentado,Alto,Variable,Ocasionalmente,Raramente,Muy satisfactorias,Apoyo moderado,Frecuentemente
+233,2024-06-14,19,F,"Más de $30,000",Posgrado,Empleado tiempo completo,Insomnio frecuente,Aumentado,Bajo,Positivo,Siempre,Ocasionalmente,Muy satisfactorias,Sin apoyo,Frecuentemente
+234,2024-09-13,54,M,"Menos de $10,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Muy variable,Bajo,Variable,No,Raramente,Muy satisfactorias,Apoyo moderado,Raramente
+235,2024-06-28,32,F,"$10,000 - $20,000",Secundaria,Empleado medio tiempo,Irregular,Normal,Normal,Neutral,Frecuentemente,Frecuentemente,Muy satisfactorias,Poco apoyo,Raramente
+236,2024-07-04,52,M,"Menos de $10,000",Universidad,Estudiante,Irregular,Aumentado,Alto,Positivo,No,Raramente,Muy satisfactorias,Mucho apoyo,Siempre
+237,2024-08-13,63,M,"$20,000 - $30,000",Secundaria,Empleado tiempo completo,Duerme demasiado,Normal,Bajo,Neutral,Frecuentemente,Ocasionalmente,Satisfactorias,Apoyo moderado,Frecuentemente
+238,2024-08-18,47,F,"$10,000 - $20,000",Secundaria,Desempleado,Irregular,Aumentado,Alto,Neutral,Ocasionalmente,Raramente,Regulares,Apoyo moderado,Frecuentemente
+239,2024-08-28,31,F,"Menos de $10,000",Secundaria,Desempleado,Irregular,Aumentado,Muy bajo,Positivo,No,Frecuentemente,Regulares,Mucho apoyo,Frecuentemente
+240,2024-08-05,30,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Aumentado,Bajo,Positivo,Frecuentemente,Raramente,Regulares,Poco apoyo,Siempre
+241,2024-10-06,25,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Regular y suficiente,Muy variable,Bajo,Neutral,No,Raramente,Muy satisfactorias,Mucho apoyo,Raramente
+242,2024-06-22,19,M,"Menos de $10,000",Universidad,Estudiante,Regular y suficiente,Disminuido,Alto,Neutral,Ocasionalmente,Constantemente,Muy satisfactorias,Poco apoyo,Ocasionalmente
+243,2024-06-27,45,F,"Menos de $10,000",Primaria,Empleado tiempo completo,Irregular,Disminuido,Muy bajo,Negativo,No,Raramente,Regulares,Poco apoyo,Ocasionalmente
+244,2024-05-21,54,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Disminuido,Bajo,Neutral,Frecuentemente,Frecuentemente,Insatisfactorias,Sin apoyo,Frecuentemente
+245,2024-07-17,45,O,"$20,000 - $30,000",Secundaria,Empleado medio tiempo,Regular y suficiente,Normal,Alto,Neutral,Ocasionalmente,Frecuentemente,Regulares,Poco apoyo,Frecuentemente
+246,2024-08-04,61,F,"Menos de $10,000",Secundaria,Desempleado,Insomnio frecuente,Muy variable,Bajo,Neutral,No,Ocasionalmente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+247,2024-08-27,51,F,"Menos de $10,000",Primaria,Desempleado,Regular y suficiente,Disminuido,Bajo,Positivo,Ocasionalmente,Frecuentemente,Satisfactorias,Sin apoyo,Raramente
+248,2024-08-16,28,F,"Menos de $10,000",Secundaria,Empleado tiempo completo,Irregular,Aumentado,Bajo,Neutral,Ocasionalmente,Raramente,Muy satisfactorias,Mucho apoyo,Frecuentemente
+249,2024-06-30,42,F,"Más de $30,000",Universidad,Empleado tiempo completo,Regular y suficiente,Normal,Alto,Variable,Siempre,Ocasionalmente,Satisfactorias,Mucho apoyo,Raramente
+250,2024-09-10,30,F,"Menos de $10,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Muy variable,Alto,Neutral,Ocasionalmente,Raramente,Muy satisfactorias,Mucho apoyo,Raramente
+251,2024-11-01,63,F,"$20,000 - $30,000",Secundaria,Estudiante,Irregular,Aumentado,Alto,Variable,Siempre,Raramente,Muy satisfactorias,Apoyo moderado,Raramente
+252,2024-05-29,51,F,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Regular y suficiente,Muy variable,Bajo,Neutral,Siempre,Frecuentemente,Muy satisfactorias,Apoyo moderado,Siempre
+253,2024-09-12,27,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Regular y suficiente,Disminuido,Muy bajo,Negativo,Ocasionalmente,Frecuentemente,Regulares,Poco apoyo,Frecuentemente
+254,2024-07-30,31,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Irregular,Muy variable,Normal,Variable,Frecuentemente,Frecuentemente,Insatisfactorias,Poco apoyo,Raramente
+255,2024-09-27,32,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Insomnio frecuente,Disminuido,Bajo,Neutral,Siempre,Ocasionalmente,Satisfactorias,Sin apoyo,Ocasionalmente
+256,2024-10-10,65,M,"$10,000 - $20,000",Posgrado,Empleado tiempo completo,Irregular,Muy variable,Bajo,Positivo,Ocasionalmente,Raramente,Satisfactorias,Mucho apoyo,Frecuentemente
+257,2024-06-22,34,M,"$10,000 - $20,000",Secundaria,Desempleado,Insomnio frecuente,Muy variable,Normal,Negativo,No,Frecuentemente,Satisfactorias,Apoyo moderado,Ocasionalmente
+258,2024-06-30,31,F,"$10,000 - $20,000",Universidad,Empleado medio tiempo,Insomnio frecuente,Disminuido,Muy bajo,Neutral,Ocasionalmente,Ocasionalmente,Satisfactorias,Mucho apoyo,Frecuentemente
+259,2024-07-09,38,M,"Más de $30,000",Universidad,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Positivo,No,Frecuentemente,Muy satisfactorias,Poco apoyo,Ocasionalmente
+260,2024-07-14,59,O,"$10,000 - $20,000",Primaria,Empleado tiempo completo,Irregular,Disminuido,Bajo,Neutral,Frecuentemente,Ocasionalmente,Satisfactorias,Sin apoyo,Raramente
+261,2024-07-11,51,M,"$10,000 - $20,000",Secundaria,Empleado medio tiempo,Duerme demasiado,Normal,Bajo,Neutral,No,Ocasionalmente,Satisfactorias,Apoyo moderado,Ocasionalmente
+262,2024-10-18,31,F,"$10,000 - $20,000",Secundaria,Empleado medio tiempo,Irregular,Normal,Bajo,Negativo,Ocasionalmente,Ocasionalmente,Satisfactorias,Mucho apoyo,Raramente
+263,2024-10-24,39,F,"Menos de $10,000",Universidad,Estudiante,Insomnio frecuente,Normal,Bajo,Negativo,Ocasionalmente,Ocasionalmente,Regulares,Poco apoyo,Frecuentemente
+264,2024-06-24,22,F,"$10,000 - $20,000",Primaria,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Neutral,No,Frecuentemente,Regulares,Mucho apoyo,Frecuentemente
+265,2024-09-25,55,M,"Menos de $10,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Aumentado,Bajo,Variable,Frecuentemente,Frecuentemente,Muy satisfactorias,Sin apoyo,Raramente
+266,2024-06-21,20,M,"Menos de $10,000",Universidad,Desempleado,Regular y suficiente,Normal,Bajo,Variable,Frecuentemente,Ocasionalmente,Satisfactorias,Poco apoyo,Frecuentemente
+267,2024-08-23,32,F,"$20,000 - $30,000",Universidad,Estudiante,Insomnio frecuente,Normal,Muy bajo,Variable,No,Frecuentemente,Satisfactorias,Mucho apoyo,Ocasionalmente
+268,2024-08-20,59,F,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Irregular,Aumentado,Alto,Variable,Frecuentemente,Ocasionalmente,Satisfactorias,Apoyo moderado,Frecuentemente
+269,2024-08-29,29,M,"Menos de $10,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Disminuido,Bajo,Neutral,Frecuentemente,Ocasionalmente,Regulares,Poco apoyo,Frecuentemente
+270,2024-06-11,32,F,"$20,000 - $30,000",Secundaria,Empleado tiempo completo,Irregular,Disminuido,Bajo,Positivo,Frecuentemente,Ocasionalmente,Satisfactorias,Apoyo moderado,Ocasionalmente
+271,2024-08-06,46,F,"$10,000 - $20,000",Posgrado,Empleado tiempo completo,Regular y suficiente,Normal,Bajo,Neutral,Frecuentemente,Frecuentemente,Muy satisfactorias,Poco apoyo,Raramente
+272,2024-07-26,35,M,"$20,000 - $30,000",Primaria,Empleado tiempo completo,Irregular,Normal,Alto,Positivo,Siempre,Raramente,Muy satisfactorias,Mucho apoyo,Siempre
+273,2024-07-27,33,F,"Más de $30,000",Universidad,Empleado tiempo completo,Irregular,Aumentado,Normal,Positivo,Ocasionalmente,Ocasionalmente,Satisfactorias,Apoyo moderado,Ocasionalmente
+274,2024-07-15,49,F,"$20,000 - $30,000",Secundaria,Desempleado,Regular y suficiente,Disminuido,Normal,Variable,No,Raramente,Regulares,Poco apoyo,Raramente
+275,2024-07-19,26,M,"Más de $30,000",Secundaria,Empleado tiempo completo,Irregular,Disminuido,Bajo,Neutral,Frecuentemente,Raramente,Satisfactorias,Sin apoyo,Ocasionalmente
+276,2024-07-21,37,M,"$20,000 - $30,000",Primaria,Empleado tiempo completo,Irregular,Normal,Alto,Positivo,Frecuentemente,Frecuentemente,Satisfactorias,Mucho apoyo,Raramente
+277,2024-09-03,31,M,"$10,000 - $20,000",Universidad,Desempleado,Insomnio frecuente,Muy variable,Normal,Neutral,Ocasionalmente,Ocasionalmente,Regulares,Apoyo moderado,Frecuentemente
+278,2024-07-31,43,M,"$10,000 - $20,000",Universidad,Desempleado,Irregular,Normal,Alto,Variable,Siempre,Constantemente,Regulares,Apoyo moderado,Ocasionalmente
+279,2024-10-13,45,F,"Menos de $10,000",Universidad,Empleado tiempo completo,Insomnio frecuente,Disminuido,Normal,Variable,Ocasionalmente,Frecuentemente,Regulares,Apoyo moderado,Raramente
+280,2024-06-22,21,M,"Menos de $10,000",Primaria,Desempleado,Regular y suficiente,Normal,Normal,Positivo,Ocasionalmente,Ocasionalmente,Regulares,Mucho apoyo,Raramente
+281,2024-06-17,61,F,"$10,000 - $20,000",Primaria,Empleado tiempo completo,Regular y suficiente,Normal,Alto,Negativo,Ocasionalmente,Ocasionalmente,Muy satisfactorias,Mucho apoyo,Raramente
+282,2024-11-09,40,F,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Regular y suficiente,Aumentado,Bajo,Positivo,Ocasionalmente,Frecuentemente,Muy satisfactorias,Poco apoyo,Ocasionalmente
+283,2024-08-16,43,M,"Más de $30,000",Primaria,Empleado tiempo completo,Irregular,Disminuido,Alto,Positivo,Siempre,Raramente,Regulares,Poco apoyo,Raramente
+284,2024-05-22,55,F,"$10,000 - $20,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Aumentado,Bajo,Positivo,No,Ocasionalmente,Muy satisfactorias,Apoyo moderado,Ocasionalmente
+285,2024-08-23,63,F,"Menos de $10,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Disminuido,Normal,Positivo,Ocasionalmente,Constantemente,Regulares,Sin apoyo,Siempre
+286,2024-06-26,19,F,"$10,000 - $20,000",Secundaria,Desempleado,Irregular,Normal,Normal,Positivo,Frecuentemente,Raramente,Insatisfactorias,Mucho apoyo,Raramente
+287,2024-05-28,35,F,"$10,000 - $20,000",Primaria,Empleado medio tiempo,Regular y suficiente,Disminuido,Muy bajo,Positivo,Siempre,Ocasionalmente,Muy satisfactorias,Mucho apoyo,Ocasionalmente
+288,2024-10-26,65,F,"$10,000 - $20,000",Secundaria,Desempleado,Insomnio frecuente,Aumentado,Normal,Variable,No,Constantemente,Insatisfactorias,Mucho apoyo,Ocasionalmente
+289,2024-08-24,32,M,"$10,000 - $20,000",Universidad,Empleado tiempo completo,Irregular,Normal,Bajo,Positivo,Siempre,Ocasionalmente,Satisfactorias,Apoyo moderado,Ocasionalmente
+290,2024-09-19,28,F,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Insomnio frecuente,Normal,Normal,Positivo,No,Frecuentemente,Satisfactorias,Sin apoyo,Ocasionalmente
+291,2024-05-27,42,M,"Menos de $10,000",Secundaria,Empleado tiempo completo,Insomnio frecuente,Normal,Normal,Neutral,Frecuentemente,Frecuentemente,Satisfactorias,Mucho apoyo,Frecuentemente
+292,2024-05-21,39,M,"Más de $30,000",Posgrado,Empleado medio tiempo,Irregular,Normal,Bajo,Variable,Ocasionalmente,Ocasionalmente,Satisfactorias,Apoyo moderado,Ocasionalmente
+293,2024-10-26,18,M,"$20,000 - $30,000",Universidad,Empleado tiempo completo,Regular y suficiente,Disminuido,Alto,Negativo,No,Frecuentemente,Regulares,Apoyo moderado,Frecuentemente
+294,2024-10-17,54,M,"Más de $30,000",Primaria,Desempleado,Regular y suficiente,Aumentado,Normal,Negativo,Frecuentemente,Raramente,Satisfactorias,Poco apoyo,Ocasionalmente
+295,2024-10-25,49,M,"Menos de $10,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Normal,Normal,Positivo,No,Frecuentemente,Muy satisfactorias,Poco apoyo,Frecuentemente
+296,2024-09-19,35,F,"Más de $30,000",Posgrado,Desempleado,Regular y suficiente,Disminuido,Normal,Variable,Frecuentemente,Frecuentemente,Satisfactorias,Apoyo moderado,Raramente
+297,2024-08-25,27,F,"Menos de $10,000",Universidad,Estudiante,Regular y suficiente,Aumentado,Muy bajo,Neutral,No,Ocasionalmente,Muy satisfactorias,Apoyo moderado,Raramente
+298,2024-08-07,61,M,"$10,000 - $20,000",Primaria,Desempleado,Irregular,Normal,Bajo,Neutral,Frecuentemente,Frecuentemente,Satisfactorias,Mucho apoyo,Frecuentemente
+299,2024-06-07,26,M,"Más de $30,000",Secundaria,Empleado tiempo completo,Regular y suficiente,Disminuido,Normal,Neutral,Siempre,Ocasionalmente,Muy satisfactorias,Poco apoyo,Ocasionalmente
+300,2024-07-05,64,F,"$20,000 - $30,000",Universidad,Empleado medio tiempo,Insomnio frecuente,Normal,Normal,Positivo,Ocasionalmente,Ocasionalmente,Satisfactorias,Apoyo moderado,Frecuentemente
